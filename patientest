@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Patient Test</title>
+</head>
+<body>
+  <h1>Class: patienttest</h1>
+  <p>IRI: https://lin01105.github.io/testontology#patienttest</p>
+  <p>Description: This is a test class from your ontology.</p>
+</body>
+</html>
